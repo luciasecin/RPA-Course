@@ -1,3 +1,3 @@
 # RPA-Course
 
-programas hechos con UiPath para el curso de RPA
+projects done using UiPath for an RPA course
