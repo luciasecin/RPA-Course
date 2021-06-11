@@ -1,0 +1,1 @@
+Gets government document with data of administered covid vaccines, filters them and makes output document with details for each age group and then uploads them to a google form

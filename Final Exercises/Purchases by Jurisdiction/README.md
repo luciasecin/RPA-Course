@@ -1,0 +1,1 @@
+Gets data from an Excel sheet regarding purchases by jurisdiction and filters them by buyer
